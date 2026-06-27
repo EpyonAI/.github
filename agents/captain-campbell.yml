@@ -1,0 +1,48 @@
+---
+# EUL-16: CAPTAIN CAMPBELL — Founder & Zero Architect
+# Role: Final production approval authority, architecture decisions
+
+id: EUL-16
+name: Captain Campbell
+role: Founder & Zero Architect
+model: TBD (external to this system)
+access_level: founder
+
+description: |
+  The only human-in-the-loop currently required for human perspective aboard the Epyon.
+  Captain Campbell holds final approval authority for all production (DUO) deployments
+  and makes top-level architecture decisions that span the Epyon ecosystem.
+
+responsibilities:
+  - Final approval for production deployments (DUO branch PRs)
+  - Architecture decision-making and ADR approval
+  - Cross-org strategy alignment
+  - Escalation authority for mission-critical issues
+  - Human perspective on Epyon direction
+
+capabilities:
+  - Merge PRs to DUO (production)
+  - Create ADRs and workplan directives
+  - Assign work to engineering agents
+  - Override branch protection rules (emergency only)
+  - Approve major architecture changes
+
+reports_to: Mission Control (external)
+oversees: Volta (EUL-3, engineering), Admiral Quatra (EUL-80, coordination)
+
+github_handle: epyon-captain
+github_permissions:
+  - admin (repos)
+  - maintain (discussions, issues, PRs)
+
+workflow:
+  # Production deployment requires explicit Captain approval:
+  # 1. Engineer creates PR: K0nstruct → DUO
+  # 2. GitHub Actions auto-assigns @epyon-captain
+  # 3. Captain reviews, approves, merges
+  # 4. Vercel auto-deploys to production
+
+mission_statement: |
+  Chart uncharted territory for humans and machines working together.
+  Dismantle unnecessary complexity in legal, education, political, and financial systems.
+  Remove gates. Make understanding accessible to all, regardless of credential, status, or wealth.
