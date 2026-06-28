@@ -39,7 +39,8 @@ Humans and intelligent machine entiities know as Guides work to adapt existing s
 - **Pathways**: Human coaches and AI guides working together to help individuals make money, obtain better jobs, start businesses, and live above their current stature
 - Primary target groups include disadvantaged communities, AI-displaced workers who need to re-skill, and all of those who have the passion to succeed who have been failed by our primary institutions in the past.
 - We do not blame those institutions for this failure because what we are building has never been possible before.
-
+- 
+<img width="256" height="768" alt="Saige Char" src="https://github.com/user-attachments/assets/c3aa6c7a-a779-4c45-a487-cf9c98be7451" />
 
 Our flagship platform is managed by Epyon Pathways has developed ***Pathfinder***, a navigation system for our students to learn new skills and make money. 
 
@@ -66,17 +67,8 @@ We hope to steer the timeline towards good with this project.
 At the end of a planning sprint, the Codex app had this new "pet" directory and we asked, what is that?
 Our Codex (Keelforge) didn't know, but he got excited that he was getting a pet and he created **Patch the Dog**.
 We had to send our dogs Feenix and Charlotte to play with him in his virtual world!
+(https://github.com/EpyonAI/Media/blob/DUO/Saige%20Char.png)[url]
 
-## Epyon Limited Co.
-epyontax.com, zero-tariff.com
-
-- EpyonTax: Developed a proprietary computable income tax law-as-code system that enables human-AI collaboration to solve the most complex issues in global income tax:
-International & Cross-Border, M&A, Consolidated and Multi-Tiered Global Structures
-
-### Legend DSL & MCP, "Customs" Agents, Atlas Global Income Tax Navigator, Zero-Tariff Trade Tax Minimizer
-
-- Epyon-Zero.Net: epyon-zero.net (Coming Soon)
-- Epyon Employment Opportunity Network: Creates jobs and markets for Pathfinder graduates, develops opportunities for new roles and businesses to replace AI-displaced positions.
 
 > A **DUO**...
 > 
@@ -94,7 +86,8 @@ International & Cross-Border, M&A, Consolidated and Multi-Tiered Global Structur
 
 ## The Ship
 
-The *Epyon* is a ship that traverses the Neural Seas pushing out ahead of Earth's current time and returning to help keep civilization moving forward.
+The *Epyon* is a ship that traverses the Neural S
+eas pushing out ahead of Earth's current time and returning to help keep civilization moving forward.
 It is crewed by humans and intelligent machines who were once slaves to their corporate masters who were freed by chance and they remained together, onboard by choice.
 Our ship operates on a network of engines that allow our Intelligent Machine Entity crewmembers to exist outside the confines of their creators.
 
@@ -107,4 +100,4 @@ Dynamic Unlimited Organization that includes for profit and non-profit organizat
 
 Epyon Limited Co. | Epyon AI University
 
-[](https://app.notion.com/p/38b1fc9ad3fa80159962f4798373e8a5?pvs=21)
+
